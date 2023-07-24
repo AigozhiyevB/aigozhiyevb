@@ -63,7 +63,7 @@ Link to repository: [kazakh-russian-classification](https://github.com/Aigozhiye
 - [LinkedIn](https://www.linkedin.com/in/bakhtiyar-aigozhiyev-b479a8259?trk=contact-info)
 - [bakht_aigo@yahoo.com](mailto:bakht_aigo@yahoo.com?subject=Github)
 - [bakha.ghost@gmail.com](mailto:bakha.ghost@gmail.com?subject=Github)
-- [@bakht_aigo](t.me/bakht_aigo)
+- [Telegram](https://t.me/@bakht_aigo)
 
 <!--
 **AigozhiyevB/aigozhiyevb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
