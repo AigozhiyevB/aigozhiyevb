@@ -23,7 +23,7 @@ Below are some of my projects that I have worked/working on:
 ### Project 1: Twitter-NLP 
 Description: This is an example project for sentiment analysis using TensorFlow. Sentiment analysis is the process of determining the sentiment or emotional tone of text, identifying whether it is positive, negative, neutral or irrelivant.
 
-🔭 I’m currently working on [it](https://github.com/AigozhiyevB/twitter-nlp)
+🔭 I’m currently working on [Twitter-NLP](https://github.com/AigozhiyevB/twitter-nlp)
 
 ### Project 2: ml-bases
 Description: a set of small ML pproject based on DataSets from [kaggle](https://www.kaggle.com)
