@@ -53,7 +53,6 @@ Link to repository: [kazakh-russian-classification](https://github.com/Aigozhiye
 - Tools and Technologies: Git, Linux, Docker.
 
 ## Participations
-.
 - 🎤 Speaker at [BuyBrand](https://buybrandexpo.kz/): GeoData and Machine Learning for mew markets opening.
 - 🎤 Speaker at [Magnum Data Driven](https://magnumdatadriven.kz/): Integration of ML models into Qlik Sense.
 - Participant of Hack'n'Change Hackaton
