@@ -7,10 +7,7 @@ My name is *Bakhtiyar Aigozhiyev*, and I'm a **Data Scientist** with a passion f
 ## Work Experience
 
 - **Data Scientist, Magnum Cash and Carry** (November, 2022 - Present)
-As a Data Scientist at Magnum Cash and Carry, I work on various projects that involve data analysis, machine learning, and predictive modeling. I collaborate with cross-functional teams to develop data-driven solutions that optimize business processes and enhance decision-making. For example *LightGBM* model for predicting new potential market' income and forecasting sales of existing markets.
-
- - **Co-Founder, SparkRead** (December, 2020 - July, 2021)
-I was one of the co-founders of SparkRead, a startup that aimed to aggregate book clubs and promote reading. As a co-founder, I was responsible for developing platform and communicating with different Cloud vendors including AWS and Google Cloud Platform.
+- **Co-Founder, SparkRead** (December, 2020 - July, 2021)
 
 ## Education 🎓
 
