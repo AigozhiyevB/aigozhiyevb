@@ -12,6 +12,7 @@ My name is *Bakhtiyar Aigozhiyev*, and I'm a **Data Scientist** with a passion f
 ## Education 🎓
 
 - Bachelor degree, Shool of Applied Mathematics and Informatics, [Moscow Institute of Physics and Technology (MIPT)](https://mipt.ru/education/departments/fpmi/).
+- National Physics and Mathematics School, 2015-2018.
 
 ## Projects
 
