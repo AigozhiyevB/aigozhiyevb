@@ -30,7 +30,7 @@ Below are some of my projects that I have worked/working on:
 | Programming | Python | [numpy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [requests](https://docs.python-requests.org/en/master/) |
 | | C++ | |
 | | SQL | Oracle and Postgre syntax |
-| Machine Learning Libraries | Scikit-learn | https://scikit-learn.org/stable/ |
+| ML Libraries | Scikit-learn | https://scikit-learn.org/stable/ |
 | | TensorFlow | https://www.tensorflow.org/ |
 | | Keras | https://keras.io/ |
 | | LightGBM | https://lightgbm.readthedocs.io/en/latest/ |
