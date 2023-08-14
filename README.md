@@ -25,22 +25,20 @@ Below are some of my projects that I have worked/working on:
 | [kazakh-russian-classification](https://github.com/AigozhiyevB/kazakh-russian-classification) | This project aims to create a model that classifies language to **kazakh** or **russian** | |
 
 ## Skills
-### Programming
-- Python (numpy, pandas, requests)
-- C++
-- SQL: Oracle and Postgre syntax
-
-### Machine Learning Libraries
-
-- Scikit-learn: Machine learning library for Python providing simple and efficient tools for data mining and data analysis.
-- TensorFlow: Open-source machine learning framework developed by Google for high-performance numerical computation.
-- Keras: High-level neural networks API, running on top of TensorFlow, designed to enable fast experimentation and prototyping.
-- LightGBM: Gradient boosting framework that uses tree-based learning algorithms, designed for high efficiency and distributed training.
-- Catboost: Gradient boosting library that provides fast, high-quality implementations of gradient boosting algorithms.
-- Statsmodels: Python library that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration.
-
-### Other
-- Tools and Technologies: Git, Linux, Docker.
+| Category | Skill | Details |
+| --- | --- | --- |
+| Programming | Python | [numpy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [requests](https://docs.python-requests.org/en/master/) |
+| | C++ | |
+| | SQL | Oracle and Postgre syntax |
+| Machine Learning Libraries | Scikit-learn | https://scikit-learn.org/stable/ |
+| | TensorFlow | https://www.tensorflow.org/ |
+| | Keras | https://keras.io/ |
+| | LightGBM | https://lightgbm.readthedocs.io/en/latest/ |
+| | Catboost | https://catboost.ai/ |
+| | Statsmodels | https://www.statsmodels.org/stable/index.html |
+| Tools | Git | |
+| | Linux | |
+| | Docker | |
 
 ## Participations
 - 🎤 Speaker at [BuyBrand](https://buybrandexpo.kz/): GeoData and Machine Learning for mew markets opening.
