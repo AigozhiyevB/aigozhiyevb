@@ -6,7 +6,8 @@ My name is *Bakhtiyar Aigozhiyev*, and I'm a **Data Scientist** with a passion f
 
 ## Work Experience
 
-- **Data Scientist, Magnum Cash and Carry** (November, 2022 - Present)
+- **Data Scientist, KazMinerals** (January, 2024 - present)
+- **Data Scientist, Magnum Cash and Carry** (November, 2022 - January, 2024)
 - **Co-Founder, SparkRead** (December, 2020 - July, 2021)
 
 ## Education 🎓
