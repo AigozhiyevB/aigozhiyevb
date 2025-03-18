@@ -21,7 +21,7 @@ Below are some of my projects that I have worked/working on:
 
 | Project | Description | Status |
 | --- | --- | --- |
-| [Twitter-NLP](https://github.com/AigozhiyevB/danik-bot) | A telegram bot named "Danik" utilizing langchain| Currntly working on |
+| [Danik-Bot](https://github.com/AigozhiyevB/danik-bot) | A telegram bot named "Danik" utilizing langchain| Currntly working on |
 | [Twitter-NLP](https://github.com/AigozhiyevB/twitter-nlp) | This is an example project for sentiment analysis using TensorFlow| Open to ideas |
 | [ml-bases](https://github.com/AigozhiyevB/ml-bases) | A set of small ML projects based on DataSets from [kaggle](https://www.kaggle.com) | Open to ideas|
 | [kazakh-russian-classification](https://github.com/AigozhiyevB/kazakh-russian-classification) | This project aims to create a model that classifies language to **kazakh** or **russian** 
