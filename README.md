@@ -6,7 +6,7 @@ My name is *Bakhtiyar Aigozhiyev*, and I'm a **Data Scientist** with a passion f
 
 ## Work Experience
 
-- **Data Scientist, KazMinerals** (January, 2024 - present)
+- **Machine Learning Engineer, KazMinerals** (January, 2024 - present)
 - **Data Scientist, Magnum Cash and Carry** (November, 2022 - January, 2024)
 - **Co-Founder, SparkRead** (December, 2020 - July, 2021)
 
@@ -21,9 +21,10 @@ Below are some of my projects that I have worked/working on:
 
 | Project | Description | Status |
 | --- | --- | --- |
-| [Twitter-NLP](https://github.com/AigozhiyevB/twitter-nlp) | This is an example project for sentiment analysis using TensorFlow| Currently working on |
+| [Twitter-NLP](https://github.com/AigozhiyevB/danik-bot) | A telegram bot named "Danik" utilizing langchain| Currntly working on |
+| [Twitter-NLP](https://github.com/AigozhiyevB/twitter-nlp) | This is an example project for sentiment analysis using TensorFlow| Open to ideas |
 | [ml-bases](https://github.com/AigozhiyevB/ml-bases) | A set of small ML projects based on DataSets from [kaggle](https://www.kaggle.com) | Open to ideas|
-| [kazakh-russian-classification](https://github.com/AigozhiyevB/kazakh-russian-classification) | This project aims to create a model that classifies language to **kazakh** or **russian** | |
+| [kazakh-russian-classification](https://github.com/AigozhiyevB/kazakh-russian-classification) | This project aims to create a model that classifies language to **kazakh** or **russian** 
 
 ## Skills
 | Category | Skill | Details |
@@ -33,6 +34,7 @@ Below are some of my projects that I have worked/working on:
 | | SQL | Oracle and Postgre syntax |
 | ML Libraries | Scikit-learn | https://scikit-learn.org/stable/ |
 | | TensorFlow | https://www.tensorflow.org/ |
+| | PyTorch | https://pytorch.org/ |
 | | Keras | https://keras.io/ |
 | | LightGBM | https://lightgbm.readthedocs.io/en/latest/ |
 | | Catboost | https://catboost.ai/ |
